@@ -20,3 +20,5 @@ public class Seleniumdemo11 {
 		driver.get("https://www.amazon.com/");
 		Thread.sleep(2000);
 		driver.manage().window().maximize();
+	}
+}
